@@ -124,10 +124,7 @@ This repository demonstrates how to explore various Azure Storage services and m
 2. Use Visual Studio to create an SSIS package for file operations.
 3. Execute the SSIS package to copy or delete files and verify the results.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
 Explore the potential of Azure Storage and SSIS to simplify your data management tasks!
 
